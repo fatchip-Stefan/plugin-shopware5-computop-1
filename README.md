@@ -1,10 +1,10 @@
-# Shopware Computop Payment Connector
+# Shopware First Cash Payment Connector
 
 Licence GPLv3
 
-## About Shopware Computop Payment Connector
-For details about the plugin please visit [our website](https://www.fatchip.de/Plugins/Shopware/Shopware-Computop-Payment-Connector.html).
-This plugin is also available at [Shopware Community Store](https://store.shopware.com/fatch19156119985f/shopware-computop-payment-connector.html).
+## About Shopware First Cash Payment Connector
+For details about the plugin please visit [our website](https://www.fatchip.de/Plugins/Shopware/Shopware-FirstCash-Payment-Connector.html).
+This plugin is also available at [Shopware Community Store](https://store.shopware.com/fatch19156119985f/shopware-firstcash-payment-connector.html).
 
 In order to use Computop Payments via this plugin, you'll need a contract with Computop. Please contact sales via the form on https://www.computop.com/de/. In case you are already a customer of Computop, we kindly ask you to get in touch with your contact person. Following that, you'll receive your access data with which you'll be able to use the Shopware plugin. You will then be able to to use Computop payments in your shop.
 
@@ -19,7 +19,7 @@ Visit our Wiki pages to read the [plugin documentation](https://wiki.fatchip.de/
 * Paypal Express (Express)
 
 ### Add payment class
-Payment classes do contain specefic params and additional requests for payment method if needed.
+Payment classes do contain specific params and additional requests for payment method if needed.
 
 Folder: Components/Api/lib/CTPayment/CTPaymentMethods
 
