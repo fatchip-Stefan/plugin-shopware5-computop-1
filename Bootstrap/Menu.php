@@ -36,7 +36,7 @@ use Shopware_Plugins_Frontend_FatchipCTPayment_Bootstrap;
 class Menu extends Bootstrap
 {
     const LABELPARENTFIND = ['label' => 'Einstellungen'];
-    const LABELCOMPUTOPMENU = 'Computop';
+    const LABELCOMPUTOPMENU = 'First Cash';
     const LABELCOMPUTOPAPILOG = 'API Protokoll';
 
     /**
